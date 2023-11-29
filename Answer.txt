@@ -1,0 +1,12 @@
+Q.1. Answer-
+<b>This text will be bolded.</b> <br>
+<br>
+<i>This text will be italic.</i> <br>
+<br>
+<u>This text will be underlined</u> <br>
+<br>
+<mark background-color: yellow>This text wiil be highlighted</mark>
+<p>This is normal text<sup> This text will be super scripted</sup>This is normal again</p>
+<p>This is normal text<sub>This text will be subscripted</sub></p>
+<p>Normal Text <small>Small Text</small></p>
+<strike>This text will be deleted</strike>
