@@ -10,3 +10,10 @@ Q.1. Answer-
 <p>This is normal text<sub>This text will be subscripted</sub></p>
 <p>Normal Text <small>Small Text</small></p>
 <strike>This text will be deleted</strike>
+
+
+Q.2. Answer
+<h1>Navigate me:</h1>
+<p>Take me to <a href="https://pwskills.com/" alt>PW Skills</a> to buy a course.</p>
+<p>Take me to <a href="https://developer.mozilla.org/en-US/">MDN Docs</a> to know more about Web Development.</p>
+<p>take me to <a href="https://lab.pwskills.com/%2F">PW Skills Lab</a> to practice live coding.</p> 
